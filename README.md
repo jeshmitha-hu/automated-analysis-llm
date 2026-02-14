@@ -1,5 +1,3 @@
-#Automated Analysis with LLM
-
 This project implements an automated data analysis system that works with any CSV file. The script performs exploratory data analysis, generates visualizations, and produces an AI-generated analytical report using GPT-4o-mini.
 
 Project Features
